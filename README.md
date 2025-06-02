@@ -34,8 +34,10 @@ I’m a Senior Java Developer with a strong interest in cloud-native application
 ---
 
 ## 📌 Visual Gallery (Optional)
-![AWS Dev](./AWS/aws-certified-developer-associate-2026.png)
-![Scaler DSML](./Data-Science/scaler-dsml-certification-2024.png)
+https://www.credly.com/badges/1c7a37d6-4469-4c3b-b639-5c586b8d3860/public_url
+![image](https://github.com/user-attachments/assets/e1ef4854-47e0-45e2-8ee5-0eeb32a2dd4e)
+
+
 
 ---
 
