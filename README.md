@@ -34,14 +34,21 @@ I’m a Senior Java Developer with a strong interest in cloud-native application
 ---
 
 ## 📌 Visual Gallery (Optional)
-https://www.credly.com/badges/1c7a37d6-4469-4c3b-b639-5c586b8d3860/public_url
-![image](https://github.com/user-attachments/assets/e1ef4854-47e0-45e2-8ee5-0eeb32a2dd4e)
 
+![image](https://github.com/user-attachments/assets/e1ef4854-47e0-45e2-8ee5-0eeb32a2dd4e)
+https://www.credly.com/badges/1c7a37d6-4469-4c3b-b639-5c586b8d3860/public_url
+
+![image](https://github.com/user-attachments/assets/2ef61eaa-0e29-47aa-8abe-462f7fdbb251)
+https://www.credly.com/badges/4de741d3-ac83-4dd0-a10f-097796e4fb96/public_url
+
+![image](https://github.com/user-attachments/assets/c415139d-b4dc-465b-9347-f0a473ecd912)
+https://www.credly.com/badges/10a1aed4-78a7-4201-a956-01e4014caa2c/public_url
 
 
 ---
 
 ## 📎 Tips for HR / Recruiters
+
 
 If you’re evaluating my profile, this repo offers:
 
